@@ -1,5 +1,7 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 31/10/2026
+### NAME: Sanjeev A
+### REG NO: 212224230246
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -53,11 +55,15 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/200d4c2c-822a-48a8-a4a7-bfc96068e557" />
+<img width="1237" height="735" alt="2" src="https://github.com/user-attachments/assets/158379d3-4f4f-43f3-b83d-46c6aa442f3d" />
 
 
 ### PREPROCESSING
 ### Procedure:
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-31 at 2 10 05 PM" src="https://github.com/user-attachments/assets/1e51b333-f949-4b4f-9759-1aa594848226" />
+<img width="1228" height="737" alt="WhatsApp Image 2026-10-31 at 2 10 15 PM" src="https://github.com/user-attachments/assets/04fe5c93-012f-4656-9831-0777b1915449" />
+
 #### 1) Add -> Pre-Processing Technique:
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
 2) Click on explorer.
@@ -75,6 +81,8 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-31 at 2 10 49 PM" src="https://github.com/user-attachments/assets/771ffd61-7f48-4ebc-b109-0eb9f1168c39" />
+<img width="1232" height="738" alt="WhatsApp Image 2026-10-31 at 2 10 58 PM" src="https://github.com/user-attachments/assets/70150ccb-0725-4ee6-aa22-ec23a90b3efb" />
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +99,8 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-31 at 2 11 20 PM" src="https://github.com/user-attachments/assets/94f1f120-36ab-4444-adfa-10c37fd13876" />
+<img width="1225" height="733" alt="WhatsApp Image 2026-10-31 at 2 11 34 PM" src="https://github.com/user-attachments/assets/f8415507-e685-4be5-b334-da044aae9085" />
 
 ### Normalize -> Pre-Processing Technique:
 
